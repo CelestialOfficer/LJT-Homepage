@@ -29,13 +29,13 @@ Research Experience
 
 Publications
 ======
-*Asterisk (\*) denotes first authorship. A complete list is also available on the [Publications](/publications/) page.*
+*First-author papers are noted below. A complete list is also available on the [Publications](/publications/) page.*
 
-1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** — arXiv, 2025.\*
+1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** — arXiv, 2025 (first author).
    Authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
-2. **On the Perception Bottleneck of VLMs for Chart Understanding** — arXiv, 2025.\*
+2. **On the Perception Bottleneck of VLMs for Chart Understanding** — arXiv, 2025 (first author).
    Authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. Code: Vision4Chart.
-3. **On the Universal Truthfulness Hyperplane Inside LLMs** — EMNLP, 2024.\*
+3. **On the Universal Truthfulness Hyperplane Inside LLMs** — EMNLP, 2024 (first author).
    Authors: Shiqi Chen, Yu Cheng, Junxian He. Code: Universal_Truthfulness_Hyperplane.
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** — ICML, 2024.
    Authors: Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.
